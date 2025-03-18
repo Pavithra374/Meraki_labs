@@ -1,6 +1,6 @@
 # Meraki_labs
 
-📌 Overview
+Overview
 This project extracts questions, answer choices, and equations from JEE Advanced PDFs and structures them into a JSON format. It handles text-based and image-based equations using OCR.
 
 Tools & Resources Utilized
